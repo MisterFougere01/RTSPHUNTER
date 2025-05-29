@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environnement virtuel
+venv/
+.env
+
+# Éditeurs
+.vscode/
+*.swp
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db

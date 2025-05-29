@@ -1,5 +1,7 @@
 /
 /stream1
+/stream2
+/av2_0
 /MediaInput/h264
 /MediaInput/mpeg4
 /Streaming/Channels/101

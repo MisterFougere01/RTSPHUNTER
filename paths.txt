@@ -1,4 +1,5 @@
 /
+/stream1
 /MediaInput/h264
 /MediaInput/mpeg4
 /Streaming/Channels/101
